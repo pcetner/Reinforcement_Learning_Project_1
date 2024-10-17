@@ -29,30 +29,35 @@ The project consists of the following main components:
 
 The project includes several visualizations of the results. These images show the performance of the different algorithms, plotting a moving average for seven runs trained in parallel.
 
+**Monte_Carlo_Discrete_Average_Rewards.png**
 <div align="center">
   <img src="Monte_Carlo_Discrete_Average_Rewards.png" alt="Monte Carlo Discrete Average Rewards" width="1200" />
 </div>
 
+**Monte_Carlo_with_Function_Approximation_Average_Rewards_.png**
 <div align="center">
   <img src="Monte_Carlo_with_Function_Approximation_Average_Rewards_.png" alt="Monte Carlo with Function Approximation Average Rewards" width="1200" />
 </div>
 
+**Non_Linear_Function_Approximation_DQN_Average_Rewards.png**
 <div align="center">
   <img src="Non_Linear_Function_Approximation_DQN_Average_Rewards.png" alt="Non Linear Function Approximation DQN Average Rewards" width="1200" />
 </div>
 
+**Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png**
 <div align="center">
   <img src="Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png" alt="Q-Learning Discrete Average Rewards (Multiple Runs)" width="1200" />
 </div>
 
+**SARSA_Discrete_Average_Rewards.png**
 <div align="center">
   <img src="SARSA_Discrete_Average_Rewards.png" alt="SARSA Discrete Average Rewards" width="1200" />
 </div>
 
+**Linear_Features_Function_Approximation_SARSA_Average_Rewards.png**
 <div align="center">
   <img src="Linear_Features_Function_Approximation_SARSA_Average_Rewards.png" alt="Linear Features Function Approximation SARSA Average Rewards" width="1200" />
 </div>
-
 In addition, the discrete methods can use nonlinear binning in the discretization processes, visualized in`Visualize_Binning.png`.
 
 ### Getting Started
