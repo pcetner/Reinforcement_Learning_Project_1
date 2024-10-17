@@ -38,7 +38,6 @@ The project includes several visualizations of the results. These images show th
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 </div>
 
-<br/>
 
 <div align="center">
   <strong>Monte_Carlo_with_Function_Approximation_Average_Rewards_.png</strong>
@@ -48,7 +47,6 @@ The project includes several visualizations of the results. These images show th
   
 </div>
 
-<br/>
 
 <div align="center">
     <strong>Non_Linear_Function_Approximation_DQN_Average_Rewards.png</strong>
@@ -58,7 +56,7 @@ The project includes several visualizations of the results. These images show th
 
 </div>
 
-<br/>
+
 
 <div align="center">
     <strong>Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png</strong>
@@ -68,7 +66,7 @@ The project includes several visualizations of the results. These images show th
 
 </div>
 
-<br/>
+
 
 <div align="center">
     <strong>SARSA_Discrete_Average_Rewards.png</strong>
@@ -78,7 +76,7 @@ The project includes several visualizations of the results. These images show th
 
 </div>
 
-<br/>
+
 
 <div align="center">
     <strong>Linear_Features_Function_Approximation_SARSA_Average_Rewards.png</strong>
