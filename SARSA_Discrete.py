@@ -200,7 +200,7 @@ def plot_all_average_rewards(all_rewards, num_runs, window=100, maximum_reward=4
     plt.legend()
     plt.grid(True)
     plt.tight_layout()
-    plt.savefig('SARSA_Average_Rewards_Multiple_Runs.png')  # Save plot as PNG file
+    plt.savefig('SARSA_Discrete_Average_Rewards.png')  # Save plot as PNG file
     plt.show()
 
 def run_sarsa_wrapper(args):
