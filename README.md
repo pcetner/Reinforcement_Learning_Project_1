@@ -85,7 +85,16 @@ The project includes several visualizations of the results. These images show th
 
 <br/>
 
-In addition, the discrete methods can use nonlinear binning in the discretization processes, visualized in`Visualize_Binning.png`.
+In addition, the discrete methods can use nonlinear binning in the discretization processes, see `Visualize_Binning.py`.
+
+<div align="center">
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
+  <strong>Visualize_Binning.png</strong>
+  <img src="Visualize_Binning.png" alt="Visualize Binning" width="1200" />
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
+
+</div>
+<br/>
 
 ### Getting Started
 
