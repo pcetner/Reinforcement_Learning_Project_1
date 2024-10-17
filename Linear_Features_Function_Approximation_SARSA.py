@@ -170,5 +170,5 @@ if __name__ == '__main__':
     plt.legend()                                                        # Display legend
     plt.grid(True)                                                      # Show grid
     plt.tight_layout()                                                  # Adjust layout
-    plt.savefig('SARSA_Discrete_average_rewards_multiple_runs.png')     # Save plot as an image
+    plt.savefig('Linear_Features_Function_Approximation_SARSA_Average_Rewards.png')     # Save plot as an image
     plt.show()                                                          # Display the plot
