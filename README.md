@@ -33,6 +33,7 @@ The project includes several visualizations of the results. These images show th
 <div align="center">
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <strong>Monte_Carlo_Discrete_Average_Rewards.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="Monte_Carlo_Discrete_Average_Rewards.png" alt="Monte Carlo Discrete Average Rewards" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 </div>
@@ -41,6 +42,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
   <strong>Monte_Carlo_with_Function_Approximation_Average_Rewards_.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="Monte_Carlo_with_Function_Approximation_Average_Rewards_.png" alt="Monte Carlo with Function Approximation Average Rewards" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   
@@ -50,6 +52,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
     <strong>Non_Linear_Function_Approximation_DQN_Average_Rewards.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="Non_Linear_Function_Approximation_DQN_Average_Rewards.png" alt="Non Linear Function Approximation DQN Average Rewards" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 
@@ -59,6 +62,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
     <strong>Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png" alt="Q-Learning Discrete Average Rewards (Multiple Runs)" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 
@@ -68,6 +72,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
     <strong>SARSA_Discrete_Average_Rewards.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="SARSA_Discrete_Average_Rewards.png" alt="SARSA Discrete Average Rewards" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 
@@ -77,6 +82,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
     <strong>Linear_Features_Function_Approximation_SARSA_Average_Rewards.png</strong>
+  <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
   <img src="Linear_Features_Function_Approximation_SARSA_Average_Rewards.png" alt="Linear Features Function Approximation SARSA Average Rewards" width="1200" />
   <hr style="width: 80%; height: 2px; background-color: #007BFF; border: none; padding: 10px 0; margin: 0;" />
 
