@@ -16,14 +16,11 @@ The project consists of the following main components:
 
 - `Linear_Features_Function_Approximation_SARSA.py`: SARSA with linear function approximation
 - `Monte_Carlo_Function_Approximation.py`: Monte Carlo method with function approximation
-
-### Deep Reinforcement Learning
-
 - `Non_Linear_Function_Approximation_DQN.py`: Deep Q-Network (DQN) implementation
 
 ### Visualization and Analysis
 
-- `VisualizeBinning.py`: Script for visualizing the binning process (likely for state space discretization)
+- `VisualizeBinning.py`: Script for visualizing the binning process (for state space discretization)
 
 ## Results
 
