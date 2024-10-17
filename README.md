@@ -109,6 +109,7 @@ To run any of the algorithms, use Python to execute the corresponding script. Fo
 `python Monte_Carlo_Discrete.py`
 
 Additionally, the `Q_Learning_Discrete.py`file has flags built in, and needs to be run as follows:
+
 `python /<PATH_TO_FILE>/Q_Learning_Discrete.py --training --episodes 100000 --density_strength .4 --plot --runs 7`
 
 For additional information, refer to the comments within each file.
