@@ -67,6 +67,7 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
   <strong>SARSA_Discrete_Average_Rewards.png</strong>
+  <br/>
   <img src="SARSA_Discrete_Average_Rewards.png" alt="SARSA Discrete Average Rewards" width="1200" />
 </div>
 
