@@ -31,30 +31,38 @@ The project includes several visualizations of the results. These images show th
 
 <div align="center">
   <strong>Monte_Carlo_Discrete_Average_Rewards.png</strong>
+  <br/>
   <img src="Monte_Carlo_Discrete_Average_Rewards.png" alt="Monte Carlo Discrete Average Rewards" width="1200" />
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <strong>Monte_Carlo_with_Function_Approximation_Average_Rewards_.png</strong>
+  <br/>
   <img src="Monte_Carlo_with_Function_Approximation_Average_Rewards_.png" alt="Monte Carlo with Function Approximation Average Rewards" width="1200" />
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <strong>Non_Linear_Function_Approximation_DQN_Average_Rewards.png</strong>
+  <br/>
   <img src="Non_Linear_Function_Approximation_DQN_Average_Rewards.png" alt="Non Linear Function Approximation DQN Average Rewards" width="1200" />
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <strong>Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png</strong>
+  <br/>
   <img src="Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png" alt="Q-Learning Discrete Average Rewards (Multiple Runs)" width="1200" />
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -63,12 +71,15 @@ The project includes several visualizations of the results. These images show th
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <strong>Linear_Features_Function_Approximation_SARSA_Average_Rewards.png</strong>
+  <br/>
   <img src="Linear_Features_Function_Approximation_SARSA_Average_Rewards.png" alt="Linear Features Function Approximation SARSA Average Rewards" width="1200" />
 </div>
 
+<br/>
 <br/>
 
 
