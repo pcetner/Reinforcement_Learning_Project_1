@@ -29,7 +29,7 @@ The project consists of the following main components:
 
 The project includes several visualizations of the results. These images show the performance of the different algorithms, plotting a moving average for seven runs trained in parallel.
 
-- `Monte_Carlo_Discrete_Average_Rewards.png`!(Monte_Carlo_Discrete_Average_Rewards.png)
+- `Monte_Carlo_Discrete_Average_Rewards.png`<img src="Monte_Carlo_Discrete_Average_Rewards.png" alt="Alt text" width="300" />
 - `Monte_Carlo_with_Function_Approximation_Average_Rewards_.png`
 - `Non_Linear_Function_Approximation_DQN_Average_Rewards.png`
 - `Q_Learning_Discrete_Average_Rewards_Multiple_Runs.png`
