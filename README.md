@@ -27,9 +27,6 @@ The project consists of the following main components:
 
 The project includes several visualizations of the results. These images show the performance of the different algorithms, plotting a moving average for seven runs trained in parallel.
 
-<details>
-<summary>Click to view result charts</summary>
-
 ### Monte Carlo Discrete
 ![Monte Carlo Discrete Average Rewards](Monte_Carlo_Discrete_Average_Rewards.png)
 
@@ -50,8 +47,6 @@ The project includes several visualizations of the results. These images show th
 
 ### Visualize Binning
 ![Visualize Binning](Visualize_Binning.png)
-
-</details>
 
 ##  Getting Started
 
